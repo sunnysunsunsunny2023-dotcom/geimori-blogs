@@ -1,8 +1,8 @@
 # Geimori Brand Content Library
 
-English brand content for Geimori coffee grinders & Wirsh espresso products.
+English brand content for Geimori coffee grinders & Wirsh espresso products — including the **full official blog archive from [mywirsh.com](https://mywirsh.com)**.
 
-🔗 **Official website**: [mywirsh.com](https://mywirsh.com)
+🔗 **Official website**: [mywirsh.com](https://mywirsh.com) · 📧 Support: service@mywirsh.com
 
 ---
 
@@ -16,10 +16,38 @@ We're transparent about what customers say: across 635 verified reviews our prod
 
 Need help with a product? Contact us at **service@mywirsh.com** — every message is read by a human, not a bot.
 
-- 🌐 Website: [mywirsh.com](https://mywirsh.com)
-- 📧 Support: service@mywirsh.com
+---
 
-## Posts
+## 📚 Official Blog Archive (mywirsh.com)
+
+Every article published on the mywirsh.com blog, synced weekly. Each file keeps its original URL link and metadata.
+
+| Directory | Articles | Topic |
+|-----------|---------:|-------|
+| `blogs/coffee-recipes/` | 29 | Drink recipes — espresso drinks, iced coffee, lattes & more |
+| `blogs/coffee-facts/` | 141 | Grinder & brewing knowledge — burrs, RDT, dial-in, coffee science |
+| `blogs/buying-guide/` | 19 | Buying advice — which grinder/machine fits your workflow |
+| `blogs/external-reviews/` | 9 | External reviews, creator tests & comparison roundups |
+
+**Total: 198 articles.** Every file starts with a direct link back to its original page on [mywirsh.com](https://mywirsh.com/blogs).
+
+### Article format
+
+```markdown
+---
+title: <article title>
+author: <author>
+date: <publish date>
+source: <original mywirsh.com URL>
+---
+> 原文链接：[<title>](<original URL>) ｜ 首发于 mywirsh.com
+
+<markdown body>
+```
+
+---
+
+## ✍️ Brand Posts (written by us)
 
 | # | File | Topic |
 |---|------|-------|
