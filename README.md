@@ -2,6 +2,23 @@
 
 English brand content for Geimori coffee grinders & Wirsh espresso products.
 
+🔗 **Official website**: [mywirsh.com](https://mywirsh.com)
+
+---
+
+## About Geimori & Wirsh
+
+**Geimori** is the grinder line from **Wirsh**, a coffee equipment brand built around what real home baristas actually need: consistent grinding, honest pricing, and tools that are easy to maintain.
+
+Our lineup covers every workflow — single-dose espresso on a budget (GU38), espresso + filter with room to grow (GU63), cordless travel grinding (T38 / T38 Plus), and flat-burr clarity without the pro price (GU64).
+
+We're transparent about what customers say: across 635 verified reviews our products hold a **4.2/5 average** with 72% five-star ratings. We read every review — praise and complaints alike — and turn low-star feedback into fixes: clearer multi-language manuals, stricter packaging checks, proactive shipping updates, and QC reviews of affected batches.
+
+Need help with a product? Contact us at **service@mywirsh.com** — every message is read by a human, not a bot.
+
+- 🌐 Website: [mywirsh.com](https://mywirsh.com)
+- 📧 Support: service@mywirsh.com
+
 ## Posts
 
 | # | File | Topic |
