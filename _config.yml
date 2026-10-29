@@ -1,0 +1,11 @@
+# Geimori Blog Archive — GitHub Pages 配置
+# 镜像站：https://sunnysunsunsunny2023-dotcom.github.io/geimori-blogs
+# 每篇文章的 canonical 指向 mywirsh.com 原文（见 _layouts/default.html）
+
+title: "Geimori Coffee Grinders & Espresso Equipment — Blog Archive"
+description: "Official blog archive of Geimori coffee grinders and Wirsh espresso equipment. Buying guides, coffee recipes, coffee facts and equipment reviews. Original articles published on mywirsh.com."
+baseurl: "/geimori-blogs"
+url: "https://sunnysunsunsunny2023-dotcom.github.io"
+
+# GitHub Pages 默认构建
+markdown: kramdown
