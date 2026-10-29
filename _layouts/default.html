@@ -3,8 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} — Geimori Blog Archive{% else %}Geimori Blog Archive{% endif %}</title>
-  {% if page.source %}<link rel="canonical" href="{{ page.source }}">{% endif %}
+  {% assign rel_path = page.url | remove_first: '/geimori-blogs' | remove: '.html' | remove: 'index' %}
+  {% if rel_path == '/' %}{% assign rel_path = '' %}{% endif %}
+  {% assign src = 'https://mywirsh.com' | append: rel_path %}
+  {% if page.title and page.title != '' %}
+  <title>{{ page.title }} — Geimori Blog Archive</title>
+  {% else %}
+  <title>Geimori Blog Archive</title>
+  {% endif %}
+  {% if page.source %}<link rel="canonical" href="{{ page.source }}">{% elsif rel_path != '' %}<link rel="canonical" href="{{ src }}">{% endif %}
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Geimori coffee grinder blog archive — original articles published on mywirsh.com.{% endif %}">
   <style>
     body{max-width:820px;margin:0 auto;padding:24px 20px 60px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.7;color:#222;background:#fff}
@@ -29,8 +36,8 @@
     <span class="brand"><a href="{{ '/' | relative_url }}">Geimori Blog Archive</a></span>
     <span><a href="https://mywirsh.com">mywirsh.com ↗</a></span>
   </header>
-  {% if page.source %}
-  <div class="original-note">📌 原文链接：<a href="{{ page.source }}">{{ page.source }}</a> ｜ 首发于 <a href="https://mywirsh.com/blogs">mywirsh.com/blogs</a></div>
+  {% if rel_path != '' %}
+  <div class="original-note">📌 原文链接：<a href="{{ src }}">{{ src }}</a> ｜ 首发于 <a href="https://mywirsh.com/blogs">mywirsh.com/blogs</a></div>
   {% endif %}
   {{ content }}
   <footer class="site-foot">
