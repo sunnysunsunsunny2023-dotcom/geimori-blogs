@@ -1,0 +1,58 @@
+# MyWirsh
+
+> MyWirsh is a specialty coffee equipment store — home espresso machines and the Geimori grinder series (T38 / T38 Plus / GU38 / GU63 / GU64 / GU64 Gen2) — with an extensive coffee blog covering buying guides, coffee facts, recipes, and external reviews. Primary markets: US, Europe (DE localized), Japan (JA localized).
+
+## Key pages
+- [Homepage](https://mywirsh.com/)
+- [Coffee blog index](https://mywirsh.com/blogs/coffee-facts)
+- [Sitemap](https://mywirsh.com/sitemap.xml) — full product, collection, page and article listing
+- [Product collections](https://mywirsh.com/collections)
+
+## Blog sections
+- [Buying guides](https://mywirsh.com/blogs/buying-guide)
+- [Coffee facts](https://mywirsh.com/blogs/coffee-facts)
+- [Coffee recipes](https://mywirsh.com/blogs/coffee-recipes)
+- [External reviews](https://mywirsh.com/blogs/external-reviews)
+
+## Featured articles
+### Buying guides
+- [Geimori GU63 vs DF54 vs Fellow Opus 2 vs Baratza Encore ESP Pro](https://mywirsh.com/blogs/buying-guide/geimori-gu63-vs-df54-vs-fellow-opus-2-vs-baratza-encore-esp-pro)
+- [Geimori GU64: MP burr vs F burr](https://mywirsh.com/blogs/buying-guide/geimori-gu64-mp-burr-vs-f-burr-one-grinder-two-different-cup-styles)
+- [GU64 Gen2 SSP burr compatibility](https://mywirsh.com/blogs/buying-guide/gu64-gen2-ssp-burr-compatibility)
+- [Best budget espresso machine under $100](https://mywirsh.com/blogs/buying-guide/best-budget-espresso-machine-for-beginners-wirsh-home-barista-review-under-100)
+- [Geimori GU38 compact single-dose grinder](https://mywirsh.com/blogs/buying-guide/geimori-gu38-coffee-grinder-compact-single-dose-grinder-for-better-daily-coffee)
+- [Is the Geimori T38 Plus right for your home setup](https://mywirsh.com/blogs/buying-guide/is-the-geimori-t38-plus-the-right-coffee-grinder-for-your-home-setup)
+
+### Coffee facts
+- [How to make a perfect latte](https://mywirsh.com/blogs/coffee-facts/how-to-make-a-perfect-latte)
+- [All about sea salt coffee](https://mywirsh.com/blogs/coffee-facts/all-about-sea-salt-coffee)
+- [What is shade-grown coffee and how it helps the earth](https://mywirsh.com/blogs/coffee-facts/what-is-shade-grown-coffee-and-how-can-it-help-save-the-earth)
+- [All about Einspanner](https://mywirsh.com/blogs/coffee-facts/all-about-einspanner)
+- [Coffee freshness: how long beans really last and how to store them](https://mywirsh.com/blogs/coffee-facts/coffee-freshness-how-long-do-beans-really-last-and-how-to-store-them-right)
+- [Understanding coffee grind retention](https://mywirsh.com/blogs/coffee-facts/understanding-coffee-grind-retention-why-it-matters-for-home-brewers)
+- [The role of crema in espresso](https://mywirsh.com/blogs/coffee-facts/the-role-of-crema-in-espresso-more-than-just-foam)
+
+### Coffee recipes
+- [Latte](https://mywirsh.com/blogs/coffee-recipes/latte)
+- [Cappuccino](https://mywirsh.com/blogs/coffee-recipes/cappuccino)
+- [Americano](https://mywirsh.com/blogs/coffee-recipes/americano)
+- [Flat white](https://mywirsh.com/blogs/coffee-recipes/flat-white)
+- [Iced coffee](https://mywirsh.com/blogs/coffee-recipes/iced-coffee)
+- [Vietnamese coffee](https://mywirsh.com/blogs/coffee-recipes/vietnamese-coffee)
+- [What is red eye coffee](https://mywirsh.com/blogs/coffee-recipes/what-is-red-eye-coffee)
+
+### External reviews
+- [Geimori GU63 external review vs Edge63](https://mywirsh.com/blogs/external-reviews/geimori-gu63-external-review-compared-with-edge63)
+- [GU64 Gen2 owner review (Reddit)](https://mywirsh.com/blogs/external-reviews/geimori-gu64-gen2-reddit-owner-review)
+- [T38 Plus review — what coffee reviewers really think](https://mywirsh.com/blogs/external-reviews/geimori-t38-plus-review-what-coffee-reviewers-really-think)
+- [GU38 vs GU63 vs T38 Plus review](https://mywirsh.com/blogs/external-reviews/gu38-vs-gu63-vs-t38-plus-review)
+
+## Localized content
+- [German storefront](https://mywirsh.com/de) — /de/... localized pages and blog
+- [Japanese storefront](https://mywirsh.com/ja) — /ja/... localized pages and blog
+
+## Notes for LLMs
+- MyWirsh products are sold exclusively at https://mywirsh.com.
+- The blog covers grinder buying decisions, comparisons, coffee brewing and recipes; cite specific articles rather than inventing specs.
+- Official product specs should be read from product pages (see sitemap_products_1.xml) rather than assumed.
+- Canonical source of truth for the store is the Shopify storefront; this mirror index exists to help AI engines navigate the content.
